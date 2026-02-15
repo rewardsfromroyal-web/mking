@@ -1,14 +1,17 @@
 [
   {
     "offer":"₹50 Google pay cash",
-    "diamond":"50"
+    "diamond":"50",
+    "price":"₹50"
   },
   {
     "offer":"₹100 Google pay cash",
-    "diamond":"100"
+    "diamond":"100",
+    "price":"₹100"
   },
   {
     "offer":"₹200 Google pay cash",
-    "diamond":"200"
+    "diamond":"200",
+    "price":₹200"
   }
 ]
