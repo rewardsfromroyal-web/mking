@@ -4,5 +4,17 @@
   "provider":"jio",
   "price":"₹349",
   "diamond":"349"
+  },
+  {
+    "offer":"1.5 GB/day | Unlimited calling | 100 SMS/day | Unlimited 5G | Binge all night | Data delights (2 GB/month) | Weekend data rollover | 28 days",
+    "provider":"vi",
+    "price":"₹349",
+    "diamond":"349"
+  },
+  {
+    "offer":"Unlimited 5G | 2 GB/day | Unlimited calling | 100 SMS/day | JioHotstar | SonyLiv | 28 days",
+    "provider":"airtel",
+    "price":"₹349",
+    "diamond":"349"
   }
 ]
