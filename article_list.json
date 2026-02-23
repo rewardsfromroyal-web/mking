@@ -3,5 +3,10 @@
     "title":"Benifits of Amla",
     "about":"8 Fantastic Benefits of Amla for Our Health",
     "api":"https://raw.githubusercontent.com/rewardsfromroyal-web/mking/refs/heads/main/benifit_of_amla.json"
+  },
+  {
+    "title":"Benifit of Neem",
+    "about":"10 Fantastic Benifits of Neem for our health",
+    "api":"https://raw.githubusercontent.com/rewardsfromroyal-web/mking/refs/heads/main/benifit_of_neem.json"
   }
 ]
